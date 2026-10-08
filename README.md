@@ -979,13 +979,13 @@ IFS), Vizag • Rajyoga Brahama Kumaris Viswa Shanthi Bhawan (RAJYO), Mount Abu 
       <td>5</td>
       <td>Dr. A. Valarmathi</td>
       <td>A congestion-aware multi-path dynamic source routing protocol with QOS for mobile ad hoc network.</td>
-      <td>2013 - Anna University (Ttiruchirappali)</td>
+      <td>2013 - Anna University (Tiruchirappali)</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Dr. V.R. Sarma Dhulipala</td>
       <td>Selective conceptual approaches in frameworks and Algorithms for fault tolerance and trustworthiness for reliable communication in wireless sensor networks.</td>
-      <td>2013 - Anna University (Ttiruchirappali)</td>
+      <td>2013 - Anna University (Tiruchirappali)</td>
     </tr>
     <tr>
       <td>7</td>
